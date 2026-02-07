@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/-Gmail-0A0A0A?style=for-the-badge&logo=gmail&logoColor=00FF41" />
 </a>
 
-<a href="https://github.com/NinjaNr">
+<a href="https://github.com/NygelNunes">
   <img src="https://img.shields.io/badge/-GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=00FF41" />
 </a>
 
