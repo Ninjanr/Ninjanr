@@ -1,34 +1,36 @@
 <div align="center">
 
-<!-- Terminal Hacker -->
+<!-- Animated Terminal -->
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2EFF71&center=true&vCenter=true&width=600&lines=System.out.println(%22Hello+World%22);Initializing+User:+Nygel+Costa...;Loading+Modules:+Web,+Java,+Hardware...;Status:+Online" />
-</a>
+<img 
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2EFF71&center=true&vCenter=true&width=700&lines=System.out.println(%22Hello+World%22);Initializing+User:+Nygel+Costa...;Loading+Modules:+Web,+Java,+Hardware...;Status:+Online" 
+/>
 
 <br><br>
 
-<!-- Social Buttons -->
+<!-- Hacker GIF Banner -->
+
+<img 
+  src="https://raw.githubusercontent.com/mov-rax-rbx/rsmatrix/3a5a42c5dd585c707637d9f62f7c93f95405d7f7/gif/preview1.gif"
+  width="90%"
+  style="max-width:900px; height:auto;"
+  alt="Hacker Animation"
+/>
+
+<br><br>
+
+<!-- Social Links -->
 
 <a href="https://www.linkedin.com/in/nygel-rodrigues-nunes-costa-29368835a/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-CONNECT-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=00FF41" />
 </a>
-&nbsp;&nbsp;
+
 <a href="mailto:nygelrodriguesnunescosta1@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-CONTACT-0A0A0A?style=for-the-badge&logo=gmail&logoColor=00FF41" />
 </a>
 
-<br><br>
-
-<!-- Optional GIF Section -->
-
-<!-- Substitua a URL abaixo por um GIF de sua preferência -->
-
-<!-- Exemplo: https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif -->
-
-<img src="https://img.gs/czjpqfbdkz/800/https://raw.githubusercontent.com/mov-rax-rbx/rsmatrix/3a5a42c5dd585c707637d9f62f7c93f95405d7f7/gif/preview1.gif" width="400" alt="Coding Animation" />
-
 </div>
+
 
 ---
 
