@@ -1,5 +1,7 @@
 <div align="center">
-  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"> std::cout << "Hello, World! I am Nygel.";</code>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hello,+World!+Sou+o+Nygel.;Bem-vindo+ao+meu+portfólio.;Code+|+Hardware+|+Web" alt="Typing SVG" />
+  </a>
 </div>
 
 <!--
