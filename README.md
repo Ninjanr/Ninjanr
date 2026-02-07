@@ -1,10 +1,5 @@
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hello,+World!+Sou+o+Nygel.;Bem-vindo+ao+meu+portfólio.;Code+|+Hardware+|+Web" alt="Typing SVG" />
-  </a>
-</div>
 
-<!--
+
 <div align="center">
   
   <a href="https://git.io/typing-svg">
@@ -24,7 +19,7 @@
   <a href="SEU_LINK_DO_LINKEDIN_AQUI" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
-  <a href="mailto:SEU_EMAIL_AQUI" target="_blank">
+  <a href="mailto:https://www.linkedin.com/in/nygel-rodrigues-nunes-costa-29368835a/" target="_blank">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
 
@@ -71,4 +66,4 @@ Minha caixa de ferramentas atual. Tenho experiência prática com algumas e esto
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=7&theme=tokyonight"/>
   </a>
 </div>
--->
+
