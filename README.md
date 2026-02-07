@@ -9,11 +9,10 @@
 <br><br>
 
 <a href="https://www.linkedin.com/in/nygel-rodrigues-nunes-costa-29368835a/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Nygel_Costa-000000?style=flat-square&logo=linkedin&logoColor=2eff71&color=1a1a1a" height="35" />
+  <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-202020?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=101010" />
 </a>
-&nbsp;&nbsp;
-<a href="mailto:nygelrodriguesnunescosta1@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-Send_Email-000000?style=flat-square&logo=gmail&logoColor=2eff71&color=1a1a1a" height="35" />
+&nbsp;&nbsp; <a href="mailto:nygelrodriguesnunescosta1@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/GMAIL-CONTACT-202020?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=101010" />
 </a>
 
 </div>
