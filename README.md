@@ -1,20 +1,34 @@
+# 💻 Perfil • Nygel Rodrigues Nunes Costa
+
 <div align="center">
 
-<!--Terminal Hacker-->
+<!-- Terminal Hacker -->
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2eff71&center=true&vCenter=true&width=600&lines=System.out.println(%22Hello+World%22);Initializing+User:+Nygel+Costa...;Loading+Modules:+Web,+Java,+Hardware...;Status:+Online" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2EFF71&center=true&vCenter=true&width=600&lines=System.out.println(%22Hello+World%22);Initializing+User:+Nygel+Costa...;Loading+Modules:+Web,+Java,+Hardware...;Status:+Online" />
 </a>
 
 <br><br>
 
+<!-- Social Buttons -->
+
 <a href="https://www.linkedin.com/in/nygel-rodrigues-nunes-costa-29368835a/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Nygel_Costa-000000?style=flat-square&logo=linkedin&logoColor=2eff71&color=1a1a1a" height="35" />
+  <img src="https://img.shields.io/badge/LinkedIn-CONNECT-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=00FF41" />
 </a>
 &nbsp;&nbsp;
 <a href="mailto:nygelrodriguesnunescosta1@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-Send_Email-000000?style=flat-square&logo=gmail&logoColor=2eff71&color=1a1a1a" height="35" />
+  <img src="https://img.shields.io/badge/Gmail-CONTACT-0A0A0A?style=for-the-badge&logo=gmail&logoColor=00FF41" />
 </a>
+
+<br><br>
+
+<!-- Optional GIF Section -->
+
+<!-- Substitua a URL abaixo por um GIF de sua preferência -->
+
+<!-- Exemplo: https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif -->
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Animation" />
 
 </div>
 
@@ -37,7 +51,7 @@ future_interest: Inteligência Artificial
 
 Sou estudante de **Ciência da Computação**, com formação técnica em informática, focado em **desenvolvimento web e backend**. Busco evolução constante por meio do estudo de programação, estruturas de dados e boas práticas de desenvolvimento.
 
-**Resumo:**
+### 📄 Resumo
 
 * 🎓 Formação técnica e acadêmica em TI
 * 🔭 Estudando: Java (POO), Estrutura de Dados, Matemática Discreta, Arquitetura de Computadores
@@ -51,13 +65,13 @@ Sou estudante de **Ciência da Computação**, com formação técnica em inform
 
 <div align="center">
 
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />
+<img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
+<img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
+<img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
+<img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
+<img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+<img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+<img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />
 
 </div>
 
