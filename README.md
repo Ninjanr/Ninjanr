@@ -8,17 +8,6 @@
 
 <br><br>
 
-<!-- Hacker GIF Banner -->
-
-  <img 
-  src="https://raw.githubusercontent.com/mov-rax-rbx/rsmatrix/3a5a42c5dd585c707637d9f62f7c93f95405d7f7/gif/preview1.gif"
-  width="100%"
-  style="max-width:900px; height:auto;"
-  />
-
-
-<br><br>
-
 <!-- Social Links -->
 
 <a href="https://www.linkedin.com/in/nygel-rodrigues-nunes-costa-29368835a/" target="_blank">
