@@ -1,33 +1,42 @@
+<!-- Green Matrix Wave with Gradient -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:003B00,50:00ff41,100:003B00&height=100&section=header" width="100%"/>
 <div align="center">
 
-<!-- Animated Terminal -->
+<!-- ASCII Art Header -->
+```
+╔══════════════════════════════════════════════════╗
+║                                                  ║
+║   ███╗   ██╗██╗   ██╗ ██████╗ ███████╗██╗        ║
+║   ████╗  ██║╚██╗ ██╔╝██╔════╝ ██╔════╝██║        ║
+║   ██╔██╗ ██║ ╚████╔╝ ██║  ███╗█████╗  ██║        ║
+║   ██║╚██╗██║  ╚██╔╝  ██║   ██║██╔══╝  ██║        ║
+║   ██║ ╚████║   ██║   ╚██████╔╝███████╗███████╗   ║
+║   ╚═╝  ╚═══╝   ╚═╝    ╚═════╝ ╚══════╝╚══════╝   ║
+║                                                  ║
+╚══════════════════════════════════════════════════╝
+```
 
 <img 
-src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2EFF71&center=true&vCenter=true&width=700&lines=System.out.println(%22Hello+World!%22);Initializing+User:+Nygel+Costa...;Loading+Modules:+Web,+Java,+Hardware...;Status:+Online" 
+src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=root%40nygel~%24+sudo+whoami;%3E+Initializing+neural+network...;%3E+Loading+modules%3A+%5BJAVA%5D+%5BWEB%5D+%5BAI%5D;%3E+System.out.println(%22Hello%2C+World!%22);%3E+Status%3A+%E2%9C%93+ONLINE+%7C+Access+Granted" 
+alt="Terminal Animation"
 />
 <br><br>
 
 <!-- Social Links -->
 
-<img src="https://komarev.com/ghpvc/?username=NygelNunes&label=PROFILE+VIEWS&color=00ff41&style=flat" /> 
-
 <a href="https://www.linkedin.com/in/nygel-rodrigues-nunes-costa-29368835a/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
 <a href="mailto:nygelrodriguesnunescosta1@gmail.com">
-  <img src="https://img.shields.io/badge/-Gmail-0A0A0A?style=for-the-badge&logo=gmail&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
 <a href="https://github.com/NygelNunes">
-  <img src="https://img.shields.io/badge/-GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 
 </div>
 
-
----
 
 ## 📌 Sobre Mim
 
@@ -82,7 +91,6 @@ user@nygel:~$ system_status
 [✔] Improving
 [✔] Studying
 ```
-
 ---
 
 ## 🎯 Objetivo
@@ -92,5 +100,8 @@ Desenvolver habilidades sólidas em programação e engenharia de software, cons
 ---
 
 <p align="center">
-  <i>"Transformando curiosidade em código."</i>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=00FF41&center=true&vCenter=true&width=435&lines='Transformando+curiosidade+em+c%C3%B3digo'" alt="Quote" />
 </p>
+<!-- Green Matrix Wave Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:003B00,50:00ff41,100:003B00&height=100&section=footer" width="100%"/>
+
