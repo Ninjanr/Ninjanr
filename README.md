@@ -1,21 +1,20 @@
 <div align="center">
 
-<!-- Terminal / Hacker Intro -->
+<!--Terminal Hacker-->
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=33FF00&center=true&vCenter=true&width=600&lines=System.out.println(%22Hello+World%22);Initializing+User:+Nygel+Costa...;Loading+Modules:+Web,+Java,+Hardware...;Status:+Online" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2eff71&center=true&vCenter=true&width=600&lines=System.out.println(%22Hello+World%22);Initializing+User:+Nygel+Costa...;Loading+Modules:+Web,+Java,+Hardware...;Status:+Online" />
 </a>
 
 <br><br>
 
-<a href="https://www.linkedin.com/in/nygel-rodrigues-nunes-costa-29368835a/" target="_blank" style="text-decoration:none;">
-  <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat&logo=linkedin&logoColor=33FF00&labelColor=0d1117&color=33FF00">
+<a href="https://www.linkedin.com/in/nygel-rodrigues-nunes-costa-29368835a/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Nygel_Costa-000000?style=flat-square&logo=linkedin&logoColor=2eff71&color=1a1a1a" height="35" />
 </a>
-
-<a href="mailto:nygelrodriguesnunescosta1@gmail.com" target="_blank" style="text-decoration:none;">
-  <img src="https://img.shields.io/badge/Email-0d1117?style=flat&logo=gmail&logoColor=33FF00&labelColor=0d1117&color=33FF00">
+&nbsp;&nbsp;
+<a href="mailto:nygelrodriguesnunescosta1@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-Send_Email-000000?style=flat-square&logo=gmail&logoColor=2eff71&color=1a1a1a" height="35" />
 </a>
-
 
 </div>
 
