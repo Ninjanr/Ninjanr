@@ -8,12 +8,12 @@
 
 <br><br>
 
-<a href="https://www.linkedin.com/in/nygel-rodrigues-nunes-costa-29368835a/" target="_blank">
-  <img src="https://img.shields.io/badge/>>_LinkedIn-0d1117?style=flat&logo=linkedin&logoColor=00ff00&labelColor=000000&color=00ff00">
+<a href="https://www.linkedin.com/in/nygel-rodrigues-nunes-costa-29368835a/" target="_blank" style="text-decoration:none;">
+  <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat&logo=linkedin&logoColor=33FF00&labelColor=0d1117&color=33FF00">
 </a>
 
-<a href="mailto:nygelrodriguesnunescosta1@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/>>_Email-0d1117?style=flat&logo=gmail&logoColor=00ff00&labelColor=000000&color=00ff00">
+<a href="mailto:nygelrodriguesnunescosta1@gmail.com" target="_blank" style="text-decoration:none;">
+  <img src="https://img.shields.io/badge/Email-0d1117?style=flat&logo=gmail&logoColor=33FF00&labelColor=0d1117&color=33FF00">
 </a>
 
 
