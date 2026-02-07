@@ -26,7 +26,7 @@
 
 <!-- Exemplo: https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif -->
 
-<img src="https://i.gifer.com/3HeZ.gif" width="400" alt="Coding Animation" />
+<img src="https://img.gs/czjpqfbdkz/800/https://raw.githubusercontent.com/mov-rax-rbx/rsmatrix/3a5a42c5dd585c707637d9f62f7c93f95405d7f7/gif/preview1.gif" width="400" alt="Coding Animation" />
 
 </div>
 
