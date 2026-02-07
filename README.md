@@ -1,40 +1,64 @@
 <div align="center">
   
+  <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"> std::cout << "Hello, World! I am Nygel.";</code>
+  
+  <br><br>
+
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=600&size=22&pause=1000&color=33FF00&center=true&vCenter=true&width=500&lines=System.out.println(%22Hello+World%22)%3B;Initializing+User:+Nygel+Costa...;Loading+Modules:+Web,+Java,+Hardware...;Status:+Online" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A9A9A9&center=true&vCenter=true&width=500&lines=CS+Student+%40+IF+Goiano;T%C3%A9cnico+em+Inform%C3%A1tica;Foco+em+Web%2C+Java+e+Hardware" alt="Typing SVG" />
+  </a>
+
+  <br>
+
+  <p align="center">
+    🎓 Estudante do 3º Período de <b>Ciência da Computação</b>.<br>
+    <i>"Explorando o mundo do desenvolvimento, do hardware ao backend."</i>
+  </p>
+
+  <a href="SEU_LINK_DO_LINKEDIN_AQUI" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
+  <a href="mailto:SEU_EMAIL_AQUI" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" target="_blank">
   </a>
 
 </div>
 
 <br>
-{
-  "user": "Nygel Rodrigues Nunes Costa",
-  "education": {
-    "degree": "B.Sc. Computer Science (3º Período)",
-    "institution": "IF Goiano",
-    "background": "Técnico em Informática"
-  },
-  "stack": {
-    "languages": ["Java", "PHP", "C++", "SQL"],
-    "interests": ["Hardware", "Optimization", "Web Dev"]
-  },
-  "highlight_project": {
-    "name": "Genes Flix",
-    "type": "TCC / Web App",
-    "details": "Aplicação de filmes c/ IA e PHP"
-  },
-  "location": "Morrinhos, GO - Brazil"
-}
+<hr>
+
+### 🚀 Sobre Mim
+
+Sou um entusiasta de tecnologia em evolução constante. Minha base técnica vem do curso Técnico em Informática, onde desenvolvi gosto pelo **Desenvolvimento Web** e **Banco de Dados**. Atualmente, na graduação, estou aprofundando meus conhecimentos em lógica, estruturas de dados e linguagens mais robustas como Java e C++.
+
+* 🔭 **Atualmente estudando:** Java (POO), Estrutura de Dados e Matemática Discreta.
+* 💻 **Projeto de Destaque:** Criador do **Genes Flix** (Aplicação Web de filmes desenvolvida em PHP como TCC do ensino técnico).
+* 🧠 **Interesses Futuros:** Tenho curiosidade em Inteligência Artificial e como ela se integra ao desenvolvimento.
+* ⚙️ **Hobbies:** Hardware, Otimização de Sistemas e Jogos.
+
+<br>
+
+### 🛠️ Tech Stack & Ferramentas
+
 <div align="center">
-
-<a href="https://www.linkedin.com/in/nygel-rodrigues-nunes-costa-29368835a/" target="_blank"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/LINKEDIN-000000%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3D33ff00" target="_blank"> </a> <a href="mailto:seu_email@gmail.com" target="_blank"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/GMAIL-000000%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3D33ff00" target="_blank"> </a>
-
+  <img align="center" alt="Nygel-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Nygel-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Nygel-PHP" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="Nygel-Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Nygel-Cplusplus" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="Nygel-MySQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Nygel-Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Nygel-VSCode" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 </div>
 
->_ root@nygel:~/skills
-<div align="center"> <img align="center" alt="Java" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> <img align="center" alt="PHP" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"> <img align="center" alt="C++" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"> <img align="center" alt="MySQL" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> <img align="center" alt="HTML" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <img align="center" alt="CSS" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> <img align="center" alt="Git" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> <img align="center" alt="VSCode" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"> </div>
+<br>
+<hr>
 
->_ system_status --check
-<div align="center"> <a href="https://www.google.com/search?q=https://github.com/SEU_USUARIO_GITHUB"> <img height="150em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DSEU_USUARIO_GITHUB%26show_icons%3Dtrue%26hide_border%3Dtrue%26title_color%3D33ff00%26icon_color%3D33ff00%26text_color%3D9f9f9f%26bg_color%3D0d1117%26include_all_commits%3Dtrue%26count_private%3Dtrue"/> <img height="150em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DSEU_USUARIO_GITHUB%26layout%3Dcompact%26langs_count%3D6%26hide_border%3Dtrue%26title_color%3D33ff00%26text_color%3D9f9f9f%26bg_color%3D0d1117"/> 
-</a> 
+### 📊 Estatísticas
+
+<div align="center">
+  <a href="https://github.com/SEU_USUARIO">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
+  </a>
 </div>
