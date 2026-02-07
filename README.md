@@ -1,5 +1,3 @@
-# 💻 Perfil • Nygel Rodrigues Nunes Costa
-
 <div align="center">
 
 <!-- Terminal Hacker -->
@@ -28,7 +26,7 @@
 
 <!-- Exemplo: https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif -->
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Animation" />
+<img src="https://i.gifer.com/3HeZ.gif" width="400" alt="Coding Animation" />
 
 </div>
 
