@@ -10,12 +10,12 @@
 
 <!-- Hacker GIF Banner -->
 
-<img 
+  <img 
   src="https://raw.githubusercontent.com/mov-rax-rbx/rsmatrix/3a5a42c5dd585c707637d9f62f7c93f95405d7f7/gif/preview1.gif"
-  width="90%"
+  width="100%"
   style="max-width:900px; height:auto;"
-  alt="Hacker Animation"
-/>
+  />
+
 
 <br><br>
 
