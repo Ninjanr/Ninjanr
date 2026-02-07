@@ -3,12 +3,15 @@
 <!-- Animated Terminal -->
 
 <img 
-  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2EFF71&center=true&vCenter=true&width=700&lines=System.out.println(%22Hello+World!%22);Initializing+User:+Nygel+Costa...;Loading+Modules:+Web,+Java,+Hardware...;Status:+Online" 
+src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2EFF71&center=true&vCenter=true&width=700&lines=System.out.println(%22Hello+World!%22);Initializing+User:+Nygel+Costa...;Loading+Modules:+Web,+Java,+Hardware...;Status:+Online" 
 />
 
 <br><br>
 
 <!-- Social Links -->
+
+<img src="https://komarev.com/ghpvc/?username=NygelNunes&label=PROFILE+VIEWS&color=00ff41&style=flat" /> 
+
 <a href="https://www.linkedin.com/in/nygel-rodrigues-nunes-costa-29368835a/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=0A0A0A" />
 </a>
