@@ -10,7 +10,7 @@
 
 <!-- Social Links -->
 <a href="https://www.linkedin.com/in/nygel-rodrigues-nunes-costa-29368835a/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/-LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=0A0A0A" />
 </a>
 
 <a href="mailto:nygelrodriguesnunescosta1@gmail.com">
