@@ -9,7 +9,7 @@ src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&p
 
 <!-- Social Links -->
 
-
+<img src="https://komarev.com/ghpvc/?username=NygelNunes&label=PROFILE+VIEWS&color=00ff41&style=flat" /> 
 
 <a href="https://www.linkedin.com/in/nygel-rodrigues-nunes-costa-29368835a/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=0A0A0A" />
