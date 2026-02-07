@@ -1,25 +1,26 @@
+# 👨‍💻 Nygel Rodrigues Nunes Costa
+
 <div align="center">
 
-<!-- Animated Terminal -->
+<!-- Animated Header -->
 
-<img 
-  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2EFF71&center=true&vCenter=true&width=700&lines=System.out.println(%22Hello+World%22);Initializing+User:+Nygel+R.+Nunes...;Loading+Modules:+Web,+Java,+Hardware...;Status:+Online" 
-/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Hello%2C+World!;Computer+Science+Student;Web+%26+Backend+Developer;Java+%7C+PHP+%7C+MySQL;Always+Learning" />
 
-<br><br>
+<br/>
 
-<!-- Social Links -->
+<!-- Social Badges -->
 
 <a href="https://www.linkedin.com/in/nygel-rodrigues-nunes-costa-29368835a/">
-  <img src="https://img.shields.io/badge/LinkedIn-CONNECT-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=00FF41" />
 </a>
-
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=nygelrodriguesnunescosta1@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-CONTACT-0A0A0A?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+<a href="mailto:nygelrodriguesnunescosta1@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-0A0A0A?style=for-the-badge&logo=gmail&logoColor=00FF41" />
+</a>
+<a href="https://github.com/NinjaNr">
+  <img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=00FF41" />
 </a>
 
 </div>
-
 
 ---
 
@@ -40,12 +41,14 @@ future_interest: Inteligência Artificial
 
 Sou estudante de **Ciência da Computação**, com formação técnica em informática, focado em **desenvolvimento web e backend**. Busco evolução constante por meio do estudo de programação, estruturas de dados e boas práticas de desenvolvimento.
 
-### 📄 Resumo
+---
+
+## 📄 Resumo Profissional
 
 * 🎓 Formação técnica e acadêmica em TI
 * 🔭 Estudando: Java (POO), Estrutura de Dados, Matemática Discreta, Arquitetura de Computadores
-* 💻 Projeto principal: GenesFlix
-* 🚀 Interesse futuro: Inteligência Artificial
+* 💻 Projeto principal: **GenesFlix**
+* 🚀 Interesse futuro: **Inteligência Artificial**
 * 🎮 Hobbies: Jogos e tecnologia
 
 ---
@@ -54,13 +57,13 @@ Sou estudante de **Ciência da Computação**, com formação técnica em inform
 
 <div align="center">
 
-<img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
-<img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
-<img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
-<img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
-<img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-<img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-<img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="44" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="44" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="44" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="44" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="44" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="44" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="44" />
 
 </div>
 
@@ -69,7 +72,7 @@ Sou estudante de **Ciência da Computação**, com formação técnica em inform
 ## ⚡ Status Atual
 
 ```bash
-user@nygel:~$ system_status
+nygel@matrix:~$ system_status
 
 [✔] Learning
 [✔] Building
@@ -79,12 +82,27 @@ user@nygel:~$ system_status
 
 ---
 
-## 🎯 Objetivo
+## 📊 Estatísticas
 
-Desenvolver habilidades sólidas em programação e engenharia de software, construindo projetos consistentes, bem documentados e escaláveis.
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=NinjaNr&show_icons=true&theme=chartreuse-dark&hide_border=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NinjaNr&layout=compact&theme=chartreuse-dark&hide_border=true" height="165" />
+
+</div>
 
 ---
 
-<p align="center">
-  <i>"Transformando curiosidade em código."</i>
-</p>
+## 🎯 Objetivo
+
+Desenvolver habilidades sólidas em programação e engenharia de software, criando projetos bem estruturados, documentados e escaláveis.
+
+---
+
+<div align="center">
+
+> *“Transformando curiosidade em código.”*
+
+</div>
+
+<!-- MATRIX MODE ACTIVATED -->
