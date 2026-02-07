@@ -1,10 +1,10 @@
-# 👨‍💻 Nygel Rodrigues Nunes Costa
-
 <div align="center">
 
-<!-- Hacker / Terminal Style Header -->
+<!-- Terminal / Hacker Intro -->
 
-<img src="https://img.shields.io/badge/STATUS-ONLINE-0f3?style=for-the-badge&labelColor=000000" />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=33FF00&center=true&vCenter=true&width=600&lines=System.out.println(%22Hello+World%22);Initializing+User:+Nygel+Costa...;Loading+Modules:+Web,+Java,+Hardware...;Status:+Online" />
+</a>
 
 <br><br>
 
@@ -39,7 +39,7 @@ Sou estudante de **Ciência da Computação**, com formação técnica em inform
 **Resumo:**
 
 * 🎓 Formação técnica e acadêmica em TI
-* 🔭 Estudando: Java (POO), Estrutura de Dados, Matemática Discreta
+* 🔭 Estudando: Java (POO), Estrutura de Dados, Matemática Discreta, Arquitetura de Computadores
 * 💻 Projeto principal: GenesFlix
 * 🚀 Interesse futuro: Inteligência Artificial
 * 🎮 Hobbies: Jogos e tecnologia
@@ -59,8 +59,6 @@ Sou estudante de **Ciência da Computação**, com formação técnica em inform
 <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />
 
 </div>
-
-> 📌 *Git está em processo de aprendizado e não representa ainda domínio avançado.*
 
 ---
 
