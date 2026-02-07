@@ -10,12 +10,12 @@
 
 <!-- Social Links -->
 
-<a href="https://www.linkedin.com/in/nygel-rodrigues-nunes-costa-29368835a/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-CONNECT-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=00FF41" />
+<a href="https://www.linkedin.com/in/nygel-rodrigues-nunes-costa-29368835a/">
+  <img src="https://img.shields.io/badge/LinkedIn-CONNECT-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
 </a>
 
-<a href="mailto:nygelrodriguesnunescosta1@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-CONTACT-0A0A0A?style=for-the-badge&logo=gmail&logoColor=00FF41" />
+<a href="mailto:nygelrodriguesnunescosta1@gmail.com">
+  <img src="https://img.shields.io/badge/Email-CONTACT-0A0A0A?style=for-the-badge&logo=gmail&logoColor=EA4335" />
 </a>
 
 </div>
